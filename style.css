@@ -1,0 +1,155 @@
+body{
+    font-family: monospace
+}
+
+.headerDiv1{
+    border:outset;
+}
+
+.headerDiv2{
+    border:outset; 
+    margin:0px 20px 0px 20px
+}
+
+.headerDiv3{
+    border:outset; 
+    margin-left: -10px;
+    margin-top: 10px
+}
+
+.containerDiv{
+    margin:0px 150px 0px 150px;
+}
+
+.homePageDiv2{
+    font-size:100px; 
+}
+
+.imgAboutPage{
+    border-radius:50%
+}
+
+input{
+    z-index: 1;
+    position: relative;
+    padding-right: 0;
+    padding-left: 0;
+    border: 0px;
+    border-radius: 3px;
+    font-size: 1.5em;
+    background: 0 0;
+    box-shadow: none !important;
+    resize: none;
+    width: 100%;
+}
+
+label{
+    display: block;
+    z-index: 0;
+    position: relative;
+    top: 2em;
+    margin: 0;
+    font-size: .85em;
+    line-height: 1.764705882em;
+    vertical-align: middle;
+    vertical-align: baseline;
+    opacity: 0;
+    /*-webkit-transition: top .3s ease,opacity .3s ease;
+    transition: top .3s ease,opacity .3s ease;*/
+}
+
+textarea{
+    z-index: 1;
+    position: relative;
+    padding-right: 0;
+    padding-left: 0;
+    border: 0;
+    border-radius: 3px;
+    font-size: 1.5em;
+    background: 0 0;
+    box-shadow: none !important;
+    resize: none;
+    width: 100%;
+}
+
+.myForm-items{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 50px;
+}
+
+
+.myContactinfo{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    font-size: large;
+}
+
+.myFooter-items{
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.myHomePage{
+    background-color:blue; 
+    padding:100px 0px;
+}
+
+.myAboutPage{
+    background-color: red;
+    padding: 30px 30px/*100px 50px 0px 50px*/;
+}
+
+.myPortfolioPage{
+    background-color: green
+}
+
+.myContactPage{
+    background-color: cadetblue
+}
+
+.myAboutPage, .myHomePage, .myPortfolioPage, .myContactPage{
+    font-family: monospace;
+}
+
+.techTools{
+    font-size: 15px;
+    color: green;
+}
+
+.myAboutPage ul{
+    font-size: 15px;
+}
+
+.myAboutPage .myAboutPagePara{
+    font-size: 20px;
+}
+
+.carousel{
+    background: #2f4357;
+    margin-top: 20px;
+}
+.carousel .item{
+    min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+
+.bs-example{
+    margin: 20px;
+}
+.techToolsHeading{
+color: yellow;
+}
+
+ul {
+list-style-type:circle;
+} 
+
+.footerItem3 a{
+    padding-left:40px
+}

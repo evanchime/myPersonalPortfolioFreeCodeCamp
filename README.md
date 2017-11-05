@@ -1,2 +1,2 @@
-# myPersonalPortfolioFreeCodeCamp
-my personal portfolio. Free code camp project
+# evanchime.github.io
+My personal profile site
