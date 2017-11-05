@@ -1,2 +1,1 @@
-# evanchime.github.io
-My personal profile site
+My personal profile site. A freecode camp project
